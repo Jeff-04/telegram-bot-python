@@ -1,0 +1,6 @@
+﻿pyTelegramBotAPI
+pdf2docx
+PyPDF2
+opencv-python
+qrcode
+pyqrcode
